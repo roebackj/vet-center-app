@@ -1,3 +1,5 @@
+.env, .gitignore are from root directory, package.json and package-lock.json have been overwritten in this branch for frontend.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
